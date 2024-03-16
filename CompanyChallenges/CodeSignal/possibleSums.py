@@ -20,6 +20,8 @@
     100 = 100;
     10 + 100 = 110.
     As you can see, there are 9 distinct sums that can be created from non-empty groupings of your coins.
+    
+    Explanation: https://booleanbit1.hashnode.dev/possible-sums
 """
 
 def solution(coins, quantity):
