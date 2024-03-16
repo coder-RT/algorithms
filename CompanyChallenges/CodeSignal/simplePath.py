@@ -8,6 +8,8 @@
     this also means that // stands for "change the current directory to the current directory"
     . is used to mark the current directory;
     .. is used to mark the parent directory; if the current directory is root already, .. does nothing.
+    
+    Explanation: https://www.youtube.com/watch?v=4e1gVeQ0AEs
 """
 
 def solution(path):
